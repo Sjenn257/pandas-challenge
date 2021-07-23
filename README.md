@@ -1,4 +1,4 @@
-## Pandas Challenge
+# Pandas Challenge
 
 In this challenge, I have analyzed data for a recent fantasy game, Heroes of Pymoli, for an independent gaming company.
 
