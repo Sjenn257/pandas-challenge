@@ -13,3 +13,11 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 - On average, adults between the ages of 35-39, children less than 10 years, and adults between the ages of 20-24 spend more per purchase
 - Final Critic and Oathbreaker, Last Hope of the Breaking Storm are the most popular items purchased
 
+# Stats:
+
+- 576 distinct players/customers
+- 179 optional items can be purchased
+- 780 purchases
+- Youngest customers is 7
+- Oldest customer is 45
+- Total revenue from all optional items is $2,379.77
