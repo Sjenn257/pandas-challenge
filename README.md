@@ -1,2 +1,2 @@
-# pandas-challenge
+# Pandas Challenge
 Pandas, Pandas, Pandas Homework
