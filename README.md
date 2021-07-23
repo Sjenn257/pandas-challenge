@@ -21,3 +21,4 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 - Youngest customers is 7
 - Oldest customer is 45
 - Total revenue from all optional items is $2,379.77
+- Average price of optional item is $3.05, range is $1.00-$4.99
